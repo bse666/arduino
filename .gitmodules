@@ -1,0 +1,9 @@
+[submodule "examples/programming_arduino"]
+	path = examples/programming_arduino
+	url = https://github.com/simonmonk/programming_arduino
+[submodule "examples/arduino-LEDfader"]
+	path = examples/arduino-LEDfader
+	url = https://github.com/jgillick/arduino-LEDFader
+[submodule "examples/arduino-stuff"]
+	path = examples/arduino-stuff
+	url = https://github.com/lvidarte/arduino-stuff
